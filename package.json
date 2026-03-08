@@ -1,0 +1,19 @@
+{
+  "name": "pos-system",
+  "version": "1.0.0",
+  "description": "Simple POS system with live total and item list",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["POS", "cashier", "Node.js", "Express"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
